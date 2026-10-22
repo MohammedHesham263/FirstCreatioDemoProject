@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yachts" />
+			<Item Name="Columns.UsrColumn11.Caption" Value="Auto Number" />
+			<Item Name="Columns.UsrColumn9.Caption" Value="Drive Type" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Price per day, $" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>
